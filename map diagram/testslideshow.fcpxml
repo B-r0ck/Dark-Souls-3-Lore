@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+
+<fcpxml version="1.7">
+    <resources>
+        <format id="r1" name="FFVideoFormat720p60" frameDuration="100/6000s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)"/>
+        <asset id="r2" name="firstflame copy" uid="4828583E03C0DE250916691458E4BBC1" src="file:///Users/brittonormond/Movies/Untitled.fcpbundle/3-12-18/Original%20Media/firstflame%20copy.jpg" start="0s" duration="0s" hasVideo="1" format="r3">
+            <bookmark>Ym9va1QDAAAAAAQQMAAAAHnYZHAamD+A9FEcg7wLssfrAflFD0H88l2IY5z9vVtPUAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAANAAAAAQEAAGJyaXR0b25vcm1vbmQAAAAGAAAAAQEAAE1vdmllcwAAEgAAAAEBAABVbnRpdGxlZC5mY3BidW5kbGUAAAcAAAABAQAAMy0xMi0xOAAOAAAAAQEAAE9yaWdpbmFsIE1lZGlhAAATAAAAAQEAAGZpcnN0ZmxhbWUgY29weS5qcGcAHAAAAAEGAAAQAAAAIAAAADgAAABIAAAAZAAAAHQAAACMAAAACAAAAAQDAADmygkAAAAAAAgAAAAEAwAA+jMPAAAAAAAIAAAABAMAAEc0DwAAAAAACAAAAAQDAAAB3BAAAAAAAAgAAAAEAwAAD9wQAAAAAAAIAAAABAMAACwkUgAAAAAACAAAAAQDAAAyJFIAAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcBjz+/iyLsYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABgRmQ6AAAACAAAAAAEAABBwAkEP3GkCiQAAAABAQAARUIyOTMyQzQtQzU0Qi00QzUwLTg0OUYtOEEyMjM3NDAyNjFFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
+        </asset>
+        <format id="r3" name="FFVideoFormatRateUndefined" width="3840" height="2160"/>
+        <effect id="r4" name="Cross Dissolve" uid="FxPlug:4731E73A-8DAC-4113-9A30-AE85B1761265"/>
+        <effect id="r5" name="Audio Crossfade" uid="FFAudioTransition"/>
+        <asset id="r6" name="archdragon copy" uid="4CB39B04C988F6DF3940B6236D917D74" src="file:///Users/brittonormond/Movies/Untitled.fcpbundle/3-12-18/Original%20Media/archdragon%20copy.jpg" start="0s" duration="0s" hasVideo="1" format="r7">
+            <bookmark>Ym9va1QDAAAAAAQQMAAAAF5GcDg1qaDCndVH4GnLgaY1tlb83ynN0vPohuA49JjgUAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAANAAAAAQEAAGJyaXR0b25vcm1vbmQAAAAGAAAAAQEAAE1vdmllcwAAEgAAAAEBAABVbnRpdGxlZC5mY3BidW5kbGUAAAcAAAABAQAAMy0xMi0xOAAOAAAAAQEAAE9yaWdpbmFsIE1lZGlhAAATAAAAAQEAAGFyY2hkcmFnb24gY29weS5qcGcAHAAAAAEGAAAQAAAAIAAAADgAAABIAAAAZAAAAHQAAACMAAAACAAAAAQDAADmygkAAAAAAAgAAAAEAwAA+jMPAAAAAAAIAAAABAMAAEc0DwAAAAAACAAAAAQDAAAB3BAAAAAAAAgAAAAEAwAAD9wQAAAAAAAIAAAABAMAACwkUgAAAAAACAAAAAQDAAAzJFIAAAAAABwAAAABBgAAzAAAANwAAADsAAAA/AAAAAwBAAAcAQAALAEAAAgAAAAABAAAQcA+pmV5v+kYAAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAABQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABgRmQ6AAAACAAAAAAEAABBwAkEP3GkCiQAAAABAQAARUIyOTMyQzQtQzU0Qi00QzUwLTg0OUYtOEEyMjM3NDAyNjFFGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQAAAABBAAAKgAAAAAAAAABRAAADwBAAAAAAAAEBAAAHABAAAAAAAAQBAAAGABAAAAAAAAAiAAADwCAAAAAAAABSAAAKwBAAAAAAAAECAAALwBAAAAAAAAESAAAPABAAAAAAAAEiAAANABAAAAAAAAEyAAAOABAAAAAAAAICAAABwCAAAAAAAAMCAAAEgCAAAAAAAAAcAAAJABAAAAAAAAEcAAACAAAAAAAAAAEsAAAKABAAAAAAAAENAAAAQAAAAAAAAA</bookmark>
+        </asset>
+        <format id="r7" name="FFVideoFormatRateUndefined" width="1920" height="1080"/>
+        <asset id="r8" name="farronkeepbg copy" uid="E186513FBBA848BA7572F1230EC4E7D0" src="file:///Users/brittonormond/Movies/Untitled.fcpbundle/3-12-18/Original%20Media/farronkeepbg%20copy.jpg" start="0s" duration="0s" hasVideo="1" format="r9">
+            <bookmark>Ym9va1gDAAAAAAQQMAAAAA6BxYsmdc54DQZNoT9rRzMMmfk1nRSfRLadiWinFAHdVAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAANAAAAAQEAAGJyaXR0b25vcm1vbmQAAAAGAAAAAQEAAE1vdmllcwAAEgAAAAEBAABVbnRpdGxlZC5mY3BidW5kbGUAAAcAAAABAQAAMy0xMi0xOAAOAAAAAQEAAE9yaWdpbmFsIE1lZGlhAAAVAAAAAQEAAGZhcnJvbmtlZXBiZyBjb3B5LmpwZwAAABwAAAABBgAAEAAAACAAAAA4AAAASAAAAGQAAAB0AAAAjAAAAAgAAAAEAwAA5soJAAAAAAAIAAAABAMAAPozDwAAAAAACAAAAAQDAABHNA8AAAAAAAgAAAAEAwAAAdwQAAAAAAAIAAAABAMAAA/cEAAAAAAACAAAAAQDAAAsJFIAAAAAAAgAAAAEAwAAMSRSAAAAAAAcAAAAAQYAANAAAADgAAAA8AAAAAABAAAQAQAAIAEAADABAAAIAAAAAAQAAEHAPZ08hzawGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAABAMAAAUAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAAYEZkOgAAAAgAAAAABAAAQcAJBD9xpAokAAAAAQEAAEVCMjkzMkM0LUM1NEItNEM1MC04NDlGLThBMjIzNzQwMjYxRRgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA/v///wEAAAAAAAAAEAAAAAQQAACsAAAAAAAAAAUQAABAAQAAAAAAABAQAAB0AQAAAAAAAEAQAABkAQAAAAAAAAIgAABAAgAAAAAAAAUgAACwAQAAAAAAABAgAADAAQAAAAAAABEgAAD0AQAAAAAAABIgAADUAQAAAAAAABMgAADkAQAAAAAAACAgAAAgAgAAAAAAADAgAABMAgAAAAAAAAHAAACUAQAAAAAAABHAAAAgAAAAAAAAABLAAACkAQAAAAAAABDQAAAEAAAAAAAAAA==</bookmark>
+        </asset>
+        <format id="r9" name="FFVideoFormatRateUndefined" width="1280" height="720"/>
+        <asset id="r10" name="Undeadsettlement copy" uid="8B920DBD4EAA87F4B04293F7CDAC1140" src="file:///Users/brittonormond/Movies/Untitled.fcpbundle/3-12-18/Original%20Media/Undeadsettlement%20copy.jpg" start="0s" duration="0s" hasVideo="1" format="r11">
+            <bookmark>Ym9va1wDAAAAAAQQMAAAAP/RFLQZks1Yl/gGhz0yoWLkH20rAhfrACk/vhp3LLSpWAIAAAQAAAADAwAAABgAKAUAAAABAQAAVXNlcnMAAAANAAAAAQEAAGJyaXR0b25vcm1vbmQAAAAGAAAAAQEAAE1vdmllcwAAEgAAAAEBAABVbnRpdGxlZC5mY3BidW5kbGUAAAcAAAABAQAAMy0xMi0xOAAOAAAAAQEAAE9yaWdpbmFsIE1lZGlhAAAZAAAAAQEAAFVuZGVhZHNldHRsZW1lbnQgY29weS5qcGcAAAAcAAAAAQYAABAAAAAgAAAAOAAAAEgAAABkAAAAdAAAAIwAAAAIAAAABAMAAObKCQAAAAAACAAAAAQDAAD6Mw8AAAAAAAgAAAAEAwAARzQPAAAAAAAIAAAABAMAAAHcEAAAAAAACAAAAAQDAAAP3BAAAAAAAAgAAAAEAwAALCRSAAAAAAAIAAAABAMAADQkUgAAAAAAHAAAAAEGAADUAAAA5AAAAPQAAAAEAQAAFAEAACQBAAA0AQAACAAAAAAEAABBwD2b58FTVRgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAFAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAGBGZDoAAAAIAAAAAAQAAEHACQQ/caQKJAAAAAEBAABFQjI5MzJDNC1DNTRCLTRDNTAtODQ5Ri04QTIyMzc0MDI2MUUYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAAAAAEEAAAsAAAAAAAAAAFEAAARAEAAAAAAAAQEAAAeAEAAAAAAABAEAAAaAEAAAAAAAACIAAARAIAAAAAAAAFIAAAtAEAAAAAAAAQIAAAxAEAAAAAAAARIAAA+AEAAAAAAAASIAAA2AEAAAAAAAATIAAA6AEAAAAAAAAgIAAAJAIAAAAAAAAwIAAAUAIAAAAAAAABwAAAmAEAAAAAAAARwAAAIAAAAAAAAAASwAAAqAEAAAAAAAAQ0AAABAAAAAAAAAA=</bookmark>
+        </asset>
+        <format id="r11" name="FFVideoFormatRateUndefined" width="1600" height="900"/>
+    </resources>
+    <library location="file:///Users/brittonormond/Movies/Untitled.fcpbundle/">
+        <event name="3-12-18" uid="ED55A247-80BE-4364-B77D-A5869680CB1E">
+            <project name="testslideshow" uid="ADF27224-13E7-4EC5-95CD-32DC245D8A8B" modDate="2018-06-05 23:26:40 -0600">
+                <sequence duration="83800/6000s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+                    <spine>
+                        <video name="firstflame copy" offset="0s" ref="r2" duration="19300/6000s" start="3600s"/>
+                        <transition name="Cross Dissolve" offset="16300/6000s" duration="1s">
+                            <filter-video ref="r4" name="Cross Dissolve">
+                                <param name="Look" key="1" value="11 (Video)"/>
+                                <param name="Amount" key="2" value="50"/>
+                                <param name="Ease" key="50" value="2 (In &amp; Out)"/>
+                                <param name="Ease Amount" key="51" value="0"/>
+                            </filter-video>
+                            <filter-audio ref="r5" name="Audio Crossfade"/>
+                        </transition>
+                        <video name="archdragon copy" offset="19300/6000s" ref="r6" duration="25500/6000s" start="3600s"/>
+                        <transition name="Cross Dissolve" offset="41800/6000s" duration="1s">
+                            <filter-video ref="r4" name="Cross Dissolve">
+                                <param name="Look" key="1" value="11 (Video)"/>
+                                <param name="Amount" key="2" value="50"/>
+                                <param name="Ease" key="50" value="2 (In &amp; Out)"/>
+                                <param name="Ease Amount" key="51" value="0"/>
+                            </filter-video>
+                            <filter-audio ref="r5" name="Audio Crossfade"/>
+                        </transition>
+                        <video name="farronkeepbg copy" offset="44800/6000s" ref="r8" duration="21800/6000s" start="72003/20s"/>
+                        <transition name="Cross Dissolve" offset="63600/6000s" duration="1s">
+                            <filter-video ref="r4" name="Cross Dissolve">
+                                <param name="Look" key="1" value="11 (Video)"/>
+                                <param name="Amount" key="2" value="50"/>
+                                <param name="Ease" key="50" value="2 (In &amp; Out)"/>
+                                <param name="Ease Amount" key="51" value="0"/>
+                            </filter-video>
+                            <filter-audio ref="r5" name="Audio Crossfade"/>
+                        </transition>
+                        <video name="Undeadsettlement copy" offset="66600/6000s" ref="r10" duration="17200/6000s" start="216007/60s"/>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+        <smart-collection name="Projects" match="all">
+            <match-clip rule="is" type="project"/>
+        </smart-collection>
+        <smart-collection name="All Video" match="any">
+            <match-media rule="is" type="videoOnly"/>
+            <match-media rule="is" type="videoWithAudio"/>
+        </smart-collection>
+        <smart-collection name="Audio Only" match="all">
+            <match-media rule="is" type="audioOnly"/>
+        </smart-collection>
+        <smart-collection name="Stills" match="all">
+            <match-media rule="is" type="stills"/>
+        </smart-collection>
+        <smart-collection name="Favorites" match="all">
+            <match-ratings value="favorites"/>
+        </smart-collection>
+    </library>
+</fcpxml>

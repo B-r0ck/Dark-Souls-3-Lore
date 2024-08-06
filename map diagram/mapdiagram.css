@@ -1,0 +1,427 @@
+
+#mapbg {
+    background-image: url("mapbg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -9999;
+}
+
+#backtoindex {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    position: fixed;
+    color: white;
+    padding-left: 30px;
+}
+
+#back2top {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    position: absolute;
+    top: 530%;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#mapdiagramtitle {
+    font-family: OptimusPrinceps;
+    src: url(OptimusPrinceps.ttf);
+    font-size: 70px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 35%; 
+    text-shadow: 4px 4px black;
+}
+/* FIRELINK */
+
+#firelinktitle {
+    font-family: OptimusPrinceps;
+    font-size: 26px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 44%;
+    top: 22%;
+
+}
+
+#firelinkimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 43%;
+    top: 30%;
+    border: 3px solid rgb(255, 255, 255);
+    
+}
+
+
+#firelinkarrow {
+    position: absolute;
+    left: 46%;
+    top: 57%;
+    transform: rotate(90deg)
+}
+/* HIGH WALL OF LOTHRIC */
+
+#highwallimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 43%;
+    top: 78%;
+    border: 4px solid rgb(255, 255, 255);
+}
+
+
+#highwalltitle {
+    font-family: OptimusPrinceps;
+    font-size: 26px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 41%;
+    top: 70%
+}
+
+#highwallarrow {
+    position: absolute;
+    left: 46%;
+    top: 105%;
+    transform: rotate(90deg)
+}
+
+/* UNDEAD SETTLEMENT */
+
+#undeadsettlementimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 43%;
+    top: 125%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#undeadsettlementtitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 41%;
+    top: 116.5%;
+    text-shadow: 4px 4px black;
+}
+
+#undeadsettlementarrow {
+    position: absolute;
+    left: 54%;
+    top: 152%;
+    transform: rotate(60deg)
+}
+
+#undeadsettlementarrow2 {
+    position: absolute;
+    left: 37%;
+    top: 152%;
+    transform: rotate(130deg)
+}
+
+/* FARRON SWAMP */
+
+#farronswampimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 26%;
+    top: 176%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#farronswamptitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 26%;
+    top: 168%;
+}
+
+#farronswamparrow {
+    position: absolute;
+    left: 37%;
+    top: 203%;
+    transform: rotate(60deg)
+}
+
+/* CATHEDRAL OF DEEP */
+
+#cathedralofdeepimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 60%;
+    top: 176%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#cathedralofdeeptitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 57%;
+    top: 168%;
+}
+
+#doll {
+    font-family: OptimusPrinceps;
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    left: 59%;
+    top: 200%;
+    text-shadow: 2px 3px black;
+}
+
+/* CATACOMBS OF CARTHUS */
+
+#catacombsimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 43%;
+    top: 225%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#catacombstitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 39%;
+    top: 216%;
+}
+
+#catacombsarrow {
+    position: absolute;
+    left: 46%;
+    top: 253%;
+    transform: rotate(90deg)
+}
+/* IRITHYLL OF THE BOREAL VALLEY */
+
+#irithyllimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 43%;
+    top: 275%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#irithylltitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 36%;
+    top: 265%;
+}
+
+#irithyllarrow1 {
+    position: absolute;
+    left: 37%;
+    top: 303%;
+    transform: rotate(130deg)
+}
+
+#irithyllarrow2 {
+    position: absolute;
+    left: 54%;
+    top: 303%;
+    transform: rotate(60deg)
+}
+
+/* ANOR LONDO */
+
+#anorlondoimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 26%;
+    top: 325%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#anorlondotitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 27%;
+    top: 317%;
+}
+
+#anorlondoarrow {
+    position: absolute;
+    left: 29%;
+    top: 354%;
+    transform: rotate(90deg)
+}
+
+/* PROFANED CAPITAL */
+
+#profanedcapitalimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 60%;
+    top: 325%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#profanedcapitaltitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 57%;
+    top: 317%;
+}
+
+#mandotoryboss {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    color: white;
+    position: absolute;
+    left: 58%;
+    top: 348%;
+    text-shadow: 0px 4px black;
+}
+
+#profanedarrow {
+    position: absolute;
+    left: 63%;
+    top: 355%;
+    transform: rotate(90deg)
+}
+
+/* ARCHDRAGON PEAK */
+
+#archdragonimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 60%;
+    top: 375%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#archdragontitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 59%;
+    top: 366%;
+}
+
+#archdragonboss {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    color: white;
+    position: absolute;
+    left: 60%;
+    top: 398%;
+    text-shadow: 0px 4px black;
+}
+
+/* LOTHRIC CASTLE */
+
+#lothricimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 26%;
+    top: 375%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#lothrictitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 26%;
+    top: 366%;
+    text-shadow: 0px 4px black;
+}
+
+#lothricarrow {
+    position: absolute;
+    left: 37%;
+    top: 403%;
+    transform: rotate(60deg)
+}
+
+/* THE GRAND ARCHIVES */
+
+#archivesimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 43%;
+    top: 425%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#archivestitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 40%;
+    top: 415%;
+    text-shadow: 0px 4px black;
+}
+
+#archivesarrow {
+    position: absolute;
+    left: 46%;
+    top: 453%;
+    transform: rotate(90deg)
+}
+
+/* KILN OF FIRST FLAME */
+
+#firstflameimg {
+    border-radius: 50%;
+    position: absolute;
+    left: 43%;
+    top: 475%;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+#firstflametitle {
+    font-family: OptimusPrinceps;
+    font-size: 29px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 39%;
+    top: 465%;
+    text-shadow: 0px 4px black;
+}
+
+#finalfight {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    text-decoration: underline;
+    color: white;
+    position: absolute;
+    left: 39%;
+    top: 500%;
+    text-shadow: 0px 2px black;
+    padding-bottom: 30px;
+}
