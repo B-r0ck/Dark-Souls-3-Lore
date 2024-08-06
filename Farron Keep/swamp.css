@@ -1,0 +1,244 @@
+body {
+    margin: 0;
+}
+
+#swampbg {
+    background-image: url(farronbg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#blackbg {
+    opacity: .5;
+    position: fixed;
+    padding-left: 12%;
+    z-index: -2;
+    margin: 0%;
+}
+
+/* Website Shortcuts */
+
+#back2index {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    text-decoration: underline;
+    color: white;
+    position: fixed;
+    text-shadow: 2px 2px black;
+}
+
+#back2firelink {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    text-decoration: underline;
+    color: white;
+    position: fixed;
+    top: 38px;
+    text-shadow: 2px 2px black;
+}
+
+#back2highwall {
+    font-family: OptimusPrinceps;
+    font-size: 21px;
+    text-decoration: underline;
+    color: white;
+    position: fixed;
+    top: 78px;
+    text-shadow: 2px 2px black;
+}
+
+#back2settlement {
+    font-family: OptimusPrinceps;
+    font-size: 18px;
+    text-decoration: underline;
+    color: white;
+    position: fixed;
+    top: 120px;
+    text-shadow: 2px 2px black;
+}
+
+/* Body */
+
+#swamptitle {
+    font-family: OptimusPrinceps;
+    font-size: 75px;
+    position: absolute;
+    left: 33%;
+    color: white;
+    text-shadow: 2px 2px black;
+    text-decoration: underline;
+}
+
+#legionsubtitle {
+    font-family: OptimusPrinceps;
+    font-size: 15px;
+    position: absolute;
+    left: 41%;
+    top: 150px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+
+
+/* Swamp Map Summary */
+
+#swampsummary {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    line-height: 170%;
+    margin-right: 21%;
+    margin-bottom: 30px;
+    text-shadow: 3px 3px black;
+    letter-spacing: 1.7px;
+}
+
+#farronmap {
+    box-shadow: 0px 0px 2px 2px rgba(255, 255, 255, 0.801);
+    position: absolute;
+    top: 150%;
+    left: 22.5%;
+    margin-bottom: 30px;
+}
+
+/* Mobs of the Swamp */
+
+#enemiestitle {
+    font-family: OptimusPrinceps;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 220%;
+    left: 35%;
+    text-shadow: 3px 3px black;
+    text-decoration: underline;
+}
+
+#ghruimg {
+    box-shadow: 0px 0px 2px 2px rgba(255, 255, 255, 0.801);
+    position: absolute;
+    top: 265%;
+    left: 22.5%;
+    margin-bottom: 30px;
+}
+
+#ghrutitle {
+    font-family: OptimusPrinceps;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 245%;
+    left: 25%;
+    text-decoration: underline;
+}
+
+#ghrusummary {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 268%;
+    left: 40%;
+    line-height: 180%;
+    margin-right: 200px;
+    text-shadow: 3px 3px black;
+}
+
+#elderghrutitle {
+    font-family: OptimusPrinceps;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 320%;
+    left: 22%;
+    text-decoration: underline;
+}
+
+#elderghruimg {
+    box-shadow: 0px 0px 2px 2px white;
+    position: absolute;
+    top: 340%;
+    left: 22.5%;
+    margin-bottom: 100px;
+}
+
+#elderghrupg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 340%;
+    left: 40%;
+    margin-right: 15%;
+    line-height: 180%;
+}
+
+#darkwraithtitle {
+    font-family: OptimusPrinceps;
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 392%;
+    left: 21%;
+    text-decoration: underline;
+}
+
+#darkwraithimg {
+    box-shadow: 0px 0px 2px 2px white;
+    position: absolute;
+    top: 410%;
+    left: 22.5%;
+    margin-bottom: 100px;
+}
+
+#darkwraithpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 411%;
+    left: 40%;
+    line-height: 180%;
+    margin-right: 15%;
+}
+
+/* The Abyss Watchers */
+
+#abysswatcherstitle {
+    font-family: OptimusPrinceps;
+    font-size: 45px;
+    color: white;
+    position: absolute;
+    top: 470%;
+    left: 33%;
+    text-shadow: 2px 2px grey;
+    margin-bottom: 40px;
+    text-decoration: underline;
+
+}
+
+#abysswatchersimg {
+    box-shadow: 0px 0px 3px 3px white;
+    position: absolute;
+    top: 500%;
+    left: 22%;
+    margin-bottom: 60px;
+
+}
+
+#abysswatcherspg {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    color: white;
+    position: absolute;
+    top: 550%;
+    left: 20%;
+    margin-right: 20%;
+    margin-bottom: 40px;
+    line-height: 160%;
+}
