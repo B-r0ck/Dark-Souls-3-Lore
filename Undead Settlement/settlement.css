@@ -1,0 +1,258 @@
+body {
+    margin: 0
+}
+
+#settlementbg {
+    background-image: url(settlementbg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position-x: center;
+}
+
+#blackbg {
+    opacity: .5;
+    position: fixed;
+    padding-left: 12%;
+    z-index: -2;
+    margin: 0%;
+}
+
+a:link{
+    color: purple;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color:white;
+}
+
+/* Back2Pages */
+
+#back2index {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    text-decoration: underline;
+    color: black;
+    position: fixed;
+    text-shadow: 2px 2px white;
+}
+
+#back2highwall {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    text-decoration: underline;
+    color: black;
+    position: fixed;
+    margin-top: 70px;
+    text-shadow: 1px 1px white;
+}
+
+#back2firelink {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    text-decoration: underline;
+    color: black;
+    position: fixed;
+    margin-top: 35px;
+    text-shadow: 2px 2px white;
+}
+
+#back2swamp {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    text-decoration: underline;
+    color: black;
+    position: fixed;
+    margin-top: 105px;
+    text-shadow: 2px 2px white;
+}
+
+/* Top Pics */
+
+#settlementtitle {
+    font-family: OptimusPrinceps;
+    font-size: 40px;
+    position: absolute;
+    color: white;
+    left: 33%;
+    text-decoration: underline;
+}
+
+#settlementimg1 {
+    position: absolute;
+    left: 15%;
+    top: 20%;
+    border: 2px solid white;
+    border-radius: 3%;
+}
+
+#settlementimg2 {
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    border: 2px solid white;
+    border-radius: 3%;
+}
+
+#settlementimg3 {
+    position: absolute;
+    left: 65%;
+    top: 20%;
+    border: 2px solid white;
+    border-radius: 3%;
+}
+
+/* Body Paragraph */
+
+#mainpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 53%;
+    left: 16%;
+    line-height: 160%;
+    margin-right: 15%;
+    text-shadow: 3px 3px black;
+}
+
+/* Hollowed Workers */
+
+#workertitle {
+    font-family: OptimusPrinceps;
+    font-size: 30px;
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 110%;
+    text-decoration: underline;
+}
+
+#workerimg {
+    position: absolute;
+    left: 17%;
+    top: 132%;
+    margin-bottom: 20px;
+    border: 2px solid white;
+    border-radius: 3%;
+}
+
+#workerpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 132%;
+    left: 35%;
+    line-height: 160%;
+    margin-right: 21%;
+    text-shadow: 3px 3px black;
+    letter-spacing: 1.7px;
+}
+
+/* Evangelist */
+
+#evangelisttitle {
+    font-family: OptimusPrinceps;
+    font-size: 30px;
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 200%;
+    text-decoration: underline;
+}
+
+#evangelistimg {
+    position: absolute;
+    left: 17%;
+    top: 220%;
+    margin-bottom: 20px;
+    border: 2px solid white;
+    border-radius: 3%;
+}
+
+#evangelistpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 218%;
+    left: 35%;
+    line-height: 160%;
+    margin-right: 21%;
+    text-shadow: 3px 3px black;
+    letter-spacing: 1.7px;
+}
+
+/* Fire Demon */
+
+#demontitle {
+    font-family: OptimusPrinceps;
+    font-size: 30px;
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 290%;
+    text-decoration: underline;
+}
+
+#demonimg {
+    position: absolute;
+    left: 17%;
+    top: 318%;
+    margin-bottom: 20px;
+    border: 2px solid white;
+    border-radius: 3%;
+}
+
+#demonpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 310%;
+    left: 35%;
+    line-height: 160%;
+    margin-right: 18%;
+    text-shadow: 3px 3px black;
+    letter-spacing: 1.7px;
+    margin-bottom: 20px;
+}
+
+/* Pit Of Hollows */
+
+#pittitle {
+    font-family: OptimusPrinceps;
+    font-size: 30px;
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 400%;
+    text-decoration: underline;
+}
+
+#pitimg {
+    position: absolute;
+    left: 17%;
+    top: 425%;
+    margin-bottom: 20px;
+    border: 2px solid white;
+    border-radius: 3%;
+}
+
+#pitpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 420%;
+    left: 35%;
+    line-height: 160%;
+    margin-right: 18%;
+    text-shadow: 3px 3px black;
+    letter-spacing: 1.7px;
+    margin-bottom: 20px;
+}
