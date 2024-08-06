@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+}
+
+#bg {
+    background-image: url(cathedral.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#blackbg {
+    opacity: .7;
+    position: fixed;
+    padding-left: 12%;
+    z-index: -2;
+    margin: 0%;
+}
+
+/* Back 2 Links */
+#back2index {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    position: absolute;
+    color: white;
+}
+
+#back2map {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    position: absolute;
+    margin-top: 40px;
+    color: white;
+}
+
+#back2firelink {
+    font-family: OptimusPrinceps;
+    font-size: 22px;
+    position: absolute;
+    margin-top: 80px;
+    color: white;
+}
+
+/*Body*/
+
+#cathedral1 {
+    border: 3px solid white;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+}
+
+#cathedral2 {
+    border: 3px solid white;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+}
+
+#cathedraltitle {
+    font-family: OptimusPrinceps;
+    color: white;
+    font-size: 48px;
+    position: absolute;
+    left: 34%;
+    top: 4%;
+    text-decoration: underline;
+}
+
+
+#cathedralsummary {
+    font-family: OptimusPrinceps;
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    left: 15%;
+    top: 65%;
+    line-height: 150%;
+    margin-right: 16%;
+    letter-spacing: 1px;
+}

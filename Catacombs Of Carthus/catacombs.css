@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+
+}
+
+#catacombsbg {
+    background-image: url(catacombsbg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#blackbg {
+    opacity: .4;
+    position: fixed;
+    padding-left: 12%;
+    z-index: -2;
+    margin: 0%;
+}
+
+/* Website Shortcuts */
+
+#back2index {
+    font-family: OptimusPrinceps;
+    font-size: 24px;
+    text-decoration: underline;
+    color: white;
+    position: fixed;
+    text-shadow: 2px 2px grey;
+}
+
+/* BODY */
+
+#catacombstitle {
+    font-family: OptimusPrinceps;
+    font-size: 45px;
+    color: white;
+    text-shadow: 2px 2px grey;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+    text-decoration: underline;
+}
+
+#screenshot1 {
+    box-shadow: 0px 0px 2px 2px white;
+    position: absolute;
+    left: 55%;
+    top: 50%;
+}
+
+#summarypg1 {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px grey;
+    position: absolute;
+    top: 36%;
+    left: 15%;
+    margin-right: 50%;
+    line-height: 140%;
+}
+
+#screenshot2 {
+    box-shadow: 0px 0px 2px 2px white;
+    position: absolute;
+    top: 125%;
+    left: 15%;
+    margin-bottom: 40px;
+}
+
+#summarypg2 {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px grey;
+    position: absolute;
+    top: 110%;
+    left: 52%;
+    margin-right: 16%;
+    line-height: 140%;
+}
+
+/* Enemies Of The Catacombs */
+
+#enemiestitle {
+    font-family: OptimusPrinceps;
+    font-size: 40px;
+    color: white;
+    text-shadow: 2px 2px grey;
+    position: absolute;
+    top: 200%;
+    left: 31%;
+    text-decoration: underline;
+}
+
+#rattitle {
+    font-family: OptimusPrinceps;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px grey;
+    position: absolute;
+    top: 220%;
+    left: 29%;
+}
+
+#ratimg {
+    box-shadow: 0px 0px 2px 2px white;
+    position: absolute;
+    top: 230%;
+    left: 23%;
+}
+
+#whiteline1 {
+    position: absolute;
+    top: 260%;
+    left: 18%;
+}
+
+#ratpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 260%;
+    left: 19%;
+    margin-right: 55%;
+    margin-bottom: 40px;
+    line-height: 135%;
+}
+
+#skeletontitle {
+    font-family: OptimusPrinceps;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px grey;
+    position: absolute;
+    top: 220%;
+    left: 60%;
+}
+
+#skeletonimg {
+    box-shadow: 0px 0px 2px 2px white;
+    position: absolute;
+    top: 230%;
+    left: 57%;
+}
+
+#whiteline2 {
+    position: absolute;
+    top: 260%;
+    left: 52%;
+}
+
+#skeletonpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 260%;
+    left: 53%;
+    margin-right: 21%;
+    margin-bottom: 40px;
+    line-height: 144%;
+}
+
+#assassintitle {
+    font-family: OptimusPrinceps;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px grey;
+    position: absolute;
+    top: 295%;
+    left: 22%;
+}
+
+#assassinimg {
+    box-shadow: 0px 0px 2px 2px white;
+    position: absolute;
+    top: 310%;
+    left: 23%;
+    margin-bottom: 30px;
+}
+
+#whiteline3 {
+    position: absolute;
+    top: 342%;
+    left: 18%;
+}
+
+#assassinpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 342%;
+    left: 19%;
+    margin-right: 54.5%;
+    margin-bottom: 40px;
+    line-height: 135%;
+}
+
+#warriortitle {
+    font-family: OptimusPrinceps;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px grey;
+    position: absolute;
+    top: 295%;
+    left: 55%;
+}
+
+#warriorimg {
+    box-shadow: 0px 0px 2px 2px white;
+    position: absolute;
+    top: 310%;
+    left: 57%;
+    margin-bottom: 30px;
+}
+
+#whiteline4 {
+    position: absolute;
+    top: 342%;
+    left: 52%;
+}
+
+#warriorpg {
+    font-family: OptimusPrinceps;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 342%;
+    left: 53%;
+    margin-right: 20%;
+    margin-bottom: 40px;
+    line-height: 144%;
+}
